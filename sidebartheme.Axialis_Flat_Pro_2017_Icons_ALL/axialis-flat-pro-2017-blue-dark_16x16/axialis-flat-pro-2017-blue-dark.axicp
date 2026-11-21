@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AxialisIconCollection>
+  <Name>Sidebar Icons</Name>
+  <Icon>
+    <Name>application-console</Name>
+    <StockIconName>application-console.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Development</StockIconSet>
+    <ColorizeOverlay>#3d73ad</ColorizeOverlay>
+    <Colorize>#3d73ad</Colorize>
+  </Icon>
+  <Icon>
+    <Name>find</Name>
+    <StockIconName>find.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#3d73ad</ColorizeOverlay>
+    <Colorize>#3d73ad</Colorize>
+  </Icon>
+  <Icon>
+    <Name>font</Name>
+    <StockIconName>font.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#3d73ad</ColorizeOverlay>
+    <Colorize>#3d73ad</Colorize>
+  </Icon>
+  <Icon>
+    <Name>logs</Name>
+    <StockIconName>logs.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#3d73ad</ColorizeOverlay>
+    <Colorize>#3d73ad</Colorize>
+  </Icon>
+  <Icon>
+    <Name>column-one</Name>
+    <StockIconName>column-one.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Word Processing</StockIconSet>
+    <ColorizeOverlay>#3d73ad</ColorizeOverlay>
+    <Colorize>#3d73ad</Colorize>
+  </Icon>
+  <Icon>
+    <Name>folder-network-red</Name>
+    <StockIconName>folder-network-red.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Hardware and Network</StockIconSet>
+    <ColorizeOverlay>#3d73ad</ColorizeOverlay>
+    <Colorize>#3d73ad</Colorize>
+  </Icon>
+  <Icon>
+    <Name>symbol-arrow-right</Name>
+    <StockIconName>symbol-arrow-right.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#3d73ad</ColorizeOverlay>
+    <Colorize>#3d73ad</Colorize>
+  </Icon>
+  <Icon>
+    <Name>menu</Name>
+    <StockIconName>menu.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#3d73ad</ColorizeOverlay>
+    <Colorize>#3d73ad</Colorize>
+  </Icon>
+  <Icon>
+    <Name>project</Name>
+    <StockIconName>project.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Development</StockIconSet>
+    <ColorizeOverlay>#3d73ad</ColorizeOverlay>
+    <Colorize>#3d73ad</Colorize>
+  </Icon>
+  <Icon>
+    <Name>list-numbers</Name>
+    <StockIconName>list-numbers.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Word Processing</StockIconSet>
+    <ColorizeOverlay>#3d73ad</ColorizeOverlay>
+    <Colorize>#3d73ad</Colorize>
+  </Icon>
+  <Icon>
+    <Name>control-tree</Name>
+    <StockIconName>control-tree.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Development</StockIconSet>
+    <ColorizeOverlay>#3d73ad</ColorizeOverlay>
+    <Colorize>#3d73ad</Colorize>
+  </Icon>
+  <Icon>
+    <Name>symbol-ok</Name>
+    <StockIconName>symbol-ok.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#3d73ad</ColorizeOverlay>
+    <Colorize>#3d73ad</Colorize>
+  </Icon>
+  <Icon>
+    <Name>source-code</Name>
+    <StockIconName>source-code.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Development</StockIconSet>
+    <ColorizeOverlay>#3d73ad</ColorizeOverlay>
+    <Colorize>#3d73ad</Colorize>
+  </Icon>
+</AxialisIconCollection>

@@ -1,0 +1,7 @@
+﻿[info]
+title=Toolbar icons: LibreOffice Colibre
+type=cudatext-data
+subdir=toolbaricons
+desc=LibreOffice Colibre icons
+homepage=https://github.com/LibreOffice/core/tree/master/icon-themes/colibre , http://www.pazera-software.com/cudatext/
+

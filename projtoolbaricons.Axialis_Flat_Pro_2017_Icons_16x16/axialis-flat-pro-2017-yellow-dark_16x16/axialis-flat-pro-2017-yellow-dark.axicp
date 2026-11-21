@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AxialisIconCollection>
+  <Name>Project Icons</Name>
+  <Icon>
+    <Name>folder</Name>
+    <StockIconName>folder.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+    <StockOverlayName>add.axvi</StockOverlayName>
+    <StockOverlayPos>2</StockOverlayPos>
+  </Icon>
+  <Icon>
+    <Name>document-color-red</Name>
+    <StockIconName>document-color-red.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+    <StockOverlayName>add.axvi</StockOverlayName>
+    <StockOverlayPos>2</StockOverlayPos>
+  </Icon>
+  <Icon>
+    <Name>gear</Name>
+    <StockIconName>gear.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>symbol-cancel</Name>
+    <StockIconName>symbol-cancel.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>folder-open</Name>
+    <StockIconName>folder-open.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>save-as</Name>
+    <StockIconName>save-as.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+</AxialisIconCollection>

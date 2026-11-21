@@ -1,0 +1,6 @@
+[info]
+title=Mariana for CudaText (by Mark Whittaker)
+type=cudatext-data
+subdir=themes
+desc=UI+syntax themes, based on Mariana color palette from Sublime Text
+homepage=https://www.opencode.net/phob1an/mariana-cudatext

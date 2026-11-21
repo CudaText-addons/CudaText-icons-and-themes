@@ -1,0 +1,6 @@
+[info]
+title=Ayu Dark & Light for CudaText (by Mark Whittaker)
+type=cudatext-data
+subdir=themes
+desc=UI+syntax themes, based on Ayu colors (https://github.com/dempfi/ayu)
+homepage=https://www.opencode.net/phob1an/ayu-cudatext

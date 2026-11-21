@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AxialisIconCollection>
+  <Name>Toolbar Icons</Name>
+  <Icon>
+    <Name>clipboard-copy</Name>
+    <StockIconName>clipboard-copy.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>clipboard-cut</Name>
+    <StockIconName>clipboard-cut.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>clipboard-paste</Name>
+    <StockIconName>clipboard-paste.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>command-undo</Name>
+    <StockIconName>command-undo.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>command-redo</Name>
+    <StockIconName>command-redo.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>document</Name>
+    <StockIconName>document.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+    <StockOverlayName>add.axvi</StockOverlayName>
+    <StockOverlayPos>2</StockOverlayPos>
+  </Icon>
+  <Icon>
+    <Name>folder</Name>
+    <StockIconName>folder.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+    <StockOverlayName>open.axvi</StockOverlayName>
+    <StockOverlayPos>2</StockOverlayPos>
+  </Icon>
+  <Icon>
+    <Name>save</Name>
+    <StockIconName>save.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>paragraph-indent-left</Name>
+    <StockIconName>paragraph-indent-left.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Word Processing</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>paragraph-indent-right</Name>
+    <StockIconName>paragraph-indent-right.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Word Processing</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>map</Name>
+    <StockIconName>map.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>paragraph-marker</Name>
+    <StockIconName>paragraph-marker.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Word Processing</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>character-change-case</Name>
+    <StockIconName>character-change-case.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Word Processing</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>comment</Name>
+    <StockIconName>comment.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Development</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>sort-az</Name>
+    <StockIconName>sort-az.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Word Processing</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+  <Icon>
+    <Name>gear</Name>
+    <StockIconName>gear.axvi</StockIconName>
+    <StockIconFamily>Axialis Flat Pro 2017</StockIconFamily>
+    <StockIconSet>Basic</StockIconSet>
+    <ColorizeOverlay>#c18f36</ColorizeOverlay>
+    <Colorize>#c18f36</Colorize>
+  </Icon>
+</AxialisIconCollection>

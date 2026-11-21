@@ -1,0 +1,6 @@
+[info]
+title=Nord for CudaText (by Mark Whittaker)
+type=cudatext-data
+subdir=themes
+desc=UI+syntax themes, based on Nord color palette from https://www.nordtheme.com/
+homepage=https://www.opencode.net/phob1an/nord-cudatext

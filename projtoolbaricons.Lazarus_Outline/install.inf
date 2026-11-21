@@ -1,0 +1,6 @@
+[info]
+title=Project toolbar icons "Lazarus Outline"
+type=cudatext-data
+subdir=projtoolbaricons
+desc=Icons for the Project Manager toolbar in CudaText, taken from the Lazarus IDE. 3 sets with different sizes: 16x, 24x, 32x.
+homepage=

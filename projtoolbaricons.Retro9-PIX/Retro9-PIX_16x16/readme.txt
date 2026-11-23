@@ -8,3 +8,6 @@ includes:
 
 These icon sets shall be combined with the Retro9 
 UI theme from Xanadu.
+
+Correction in 2026/11: 4 icons were added by Z.ai:
+locate, recents, sessions, star.

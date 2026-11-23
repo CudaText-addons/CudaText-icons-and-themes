@@ -28,3 +28,10 @@ In short:
 
 
 Full text of the license: http://www.axialis.com/icongenerator/iconset-license.html#free
+
+
+----------------------------------------------------------
+
+Note: icons star.png, sessions.png, locate.png, recents.png
+(added for the CudaText 1.240 Project Manager toolbar buttons)
+are original drawings in the same style, not Axialis artwork.
